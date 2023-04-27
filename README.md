@@ -1,4 +1,4 @@
 Pórtifolio em construção:
 https://lepleen.github.io/dg/
 
-<img src="cover.png" alt="portifolio">
+<img src="assets/img/cover.png" alt="portifolio">
